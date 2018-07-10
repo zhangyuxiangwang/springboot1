@@ -1,0 +1,23 @@
+server:
+  port: 8002
+  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test1
+    password: root
+    username: root
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    cluster:
+      nodes:
+      - 172.16.194.58:7000
+    
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true # 驼峰命名
+    
+debug: true
+
+logging:
+  level:
+    com.jrj.cache.mapper: debug

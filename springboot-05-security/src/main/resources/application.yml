@@ -1,0 +1,17 @@
+server:
+  port: 8005
+  
+spring:
+  application:
+    name: security  # 服务名称
+    
+#  config:
+#    location: # 这个是修改静态目录的
+
+#security:
+#  user:
+#    name: wangbin
+#    password: 123456
+#    role:
+#    - user
+#    - dog  # 这就是list和数组的写法

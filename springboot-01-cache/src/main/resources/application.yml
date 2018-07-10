@@ -1,0 +1,26 @@
+server:
+  port: 8001
+  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test1
+    password: root
+    username: root
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    cluster:
+      nodes:
+      - 172.16.194.58:7000
+    
+debug: true # 打开这个可以看见那些自动配置生效了
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true # 开启mybatis的驼峰命名法，这样t_name-->tName
+
+
+logging:
+  level:
+    dubug: com.jrj.cache.mapper
+    
+    

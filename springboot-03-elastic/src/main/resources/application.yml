@@ -1,0 +1,13 @@
+spring:
+  elasticsearch:
+    jest:
+      uris:
+      - http://localhost:9200
+      
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: localhost:9300
+      
+      
+#debug: true
