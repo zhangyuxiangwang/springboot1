@@ -1,0 +1,28 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/test
+  application:
+    name: mongodb
+    
+server:
+  port: 9001
+  
+  
+my: 
+  data: 
+   time: 60 
+   name: wangbin
+   age: 20
+   sex: 男
+   
+logging:
+  level: {"org.springframework.web":debug,"com.jrj.springboot":debug} 
+
+  
+  
+    
+  
+  
+
+    

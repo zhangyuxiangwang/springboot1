@@ -78,5 +78,6 @@
 		<module>springboot-04-task-mail</module>
 		<module>springboot-05-security</module>
 		<module>springboot-08-actuator</module>
+		<module>springboot-mongodb</module>
 	</modules>
 </project>
