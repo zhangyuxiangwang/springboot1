@@ -16,7 +16,7 @@ mybatis:
   configuration:
     map-underscore-to-camel-case: true # 驼峰命名
     
-debug: true
+#debug: true
 
 logging:
   level:

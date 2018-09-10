@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-01-cache" />
+        <module name="springboot-01-cache-myself" />
+        <module name="springboot-02-amqp" />
+        <module name="springboot-03-elastic" />
+        <module name="springboot-04-task-mail" />
+        <module name="springboot-05-security" />
+        <module name="springboot-08-actuator" />
+        <module name="springboot-mongodb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-01-cache" target="1.8" />
+      <module name="springboot-01-cache-myself" target="1.8" />
+      <module name="springboot-02-amqp" target="1.8" />
+      <module name="springboot-03-elastic" target="1.8" />
+      <module name="springboot-04-task-mail" target="1.8" />
+      <module name="springboot-05-security" target="1.8" />
+      <module name="springboot-08-actuator" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="zhyxwangGIT_springboot1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
