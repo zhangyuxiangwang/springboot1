@@ -79,5 +79,7 @@
 		<module>springboot-05-security</module>
 		<module>springboot-08-actuator</module>
 		<module>springboot-mongodb</module>
-	</modules>
+		<module>springboot-09-test</module>
+        <module>springboot-excel</module>
+    </modules>
 </project>

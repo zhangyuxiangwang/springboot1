@@ -14,6 +14,8 @@
         <module name="springboot-05-security" />
         <module name="springboot-08-actuator" />
         <module name="springboot-mongodb" />
+        <module name="springboot09test" />
+        <module name="springbootexcel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,7 +26,10 @@
       <module name="springboot-04-task-mail" target="1.8" />
       <module name="springboot-05-security" target="1.8" />
       <module name="springboot-08-actuator" target="1.8" />
+      <module name="springboot-09-test" target="1.8" />
       <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot09test" target="1.8" />
+      <module name="springbootexcel" target="1.8" />
       <module name="zhyxwangGIT_springboot1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

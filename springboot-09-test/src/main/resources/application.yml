@@ -1,0 +1,20 @@
+server:
+  port: 8008
+  
+  
+  
+
+management:
+  security:
+    enabled: false
+  port: 8181 # 这是后台的端口号
+  context-path: /manager # 这个是设置访问的路径，需要在以前的上面加上/manager
+  # http://localhost:8181/manager/beans
+  
+    
+endpoints:
+  shutdown:
+    enabled: true # 这个开启后，可以远程的关闭程序，http://localhost:8008/shutdown 必须是post请求
+    
+  
+    
