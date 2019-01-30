@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" filepath="$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-09-test/springboot09test.iml" filepath="$PROJECT_DIR$/springboot-09-test/springboot09test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" filepath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-excel/springbootexcel.iml" filepath="$PROJECT_DIR$/springboot-excel/springbootexcel.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhyxwangGIT_springboot1.iml" filepath="$PROJECT_DIR$/zhyxwangGIT_springboot1.iml" />
     </modules>

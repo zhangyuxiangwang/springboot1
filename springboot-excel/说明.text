@@ -1,2 +1,17 @@
 这个项目就是springboot结合pio导出excel的一个例子。
 2018-11-5
+导出：
+pom
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>3.14</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>3.13</version>
+</dependency>
+
+
+这个地方有导入和导出的

@@ -1,0 +1,107 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource",
+      "type": "com.yi23.springboot.configuration.DruidConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.filters",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.initial-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.log-slow-sql",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.max-open-prepared-statements",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.min-evictable-idle-time-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.min-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.pool-prepared-statements",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.test-on-borrow",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.test-on-return",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.test-while-idle",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.time-between-eviction-runs-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yi23.springboot.configuration.DruidConfig",
+      "name": "spring.datasource.validation-query",
+      "type": "java.lang.String"
+    }
+  ]
+}

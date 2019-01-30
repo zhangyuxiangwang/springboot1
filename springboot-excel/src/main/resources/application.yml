@@ -1,0 +1,10 @@
+server:
+  port: 9000
+
+
+spring:
+  http:
+    multipart:
+      max-file-size: 1Mb
+      max-request-size: 10Mb
+

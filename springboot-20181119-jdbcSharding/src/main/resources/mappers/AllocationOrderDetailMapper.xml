@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.yi23.springboot.dao.AllocationOrderDetailDao">
+
+    <select id="getAllocationOrderDetail" resultType="com.yi23.springboot.bean.AllocationOrderDetail">
+        select * from allocation_order_detail
+    </select>
+
+    <select id="getAllocationOrderDetailList1" resultType="com.yi23.springboot.bean.AllocationOrderDetail" parameterType="map">
+        select * from allocation_order_detail limit ${limit}
+    </select>
+
+    <select id="getTest" resultType="map" >
+        select * from test
+    </select>
+
+</mapper>

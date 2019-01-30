@@ -4,8 +4,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.data.redis.core.StringRedisTemplate;
+//import org.springframework.data.redis.core.RedisTemplate;
+//import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.jrj.cache.bean.Employee;
@@ -17,14 +17,14 @@ public class Springboot01CacheApplicationTests {
 	@Autowired
 	EmployeeMapper employeeMapper;
 
-	@Autowired
-	StringRedisTemplate stringRedisTemplate;  //操作k-v都是字符串的
-
-	@Autowired
-	RedisTemplate redisTemplate;  //k-v都是对象的
-
-	@Autowired
-	RedisTemplate<Object, Employee> empRedisTemplate;
+//	@Autowired
+//	StringRedisTemplate stringRedisTemplate;  //操作k-v都是字符串的
+//
+//	@Autowired
+//	RedisTemplate redisTemplate;  //k-v都是对象的
+//
+//	@Autowired
+//	RedisTemplate<Object, Employee> empRedisTemplate;
 
 
 	/**
@@ -56,7 +56,7 @@ public class Springboot01CacheApplicationTests {
 		//1、将数据以json的方式保存
 		 //(1)自己将对象转为json
 		 //(2)redisTemplate默认的序列化规则；改变默认的序列化规则；
-		empRedisTemplate.opsForValue().set("emp-01",empById);
+//		empRedisTemplate.opsForValue().set("emp-01",empById);
 	}
 
 

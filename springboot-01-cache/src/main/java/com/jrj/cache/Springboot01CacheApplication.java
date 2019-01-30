@@ -38,9 +38,9 @@ import org.springframework.cache.annotation.EnableCaching;
  *      4）、自定义CacheManager；
  *
  */
-@MapperScan("com.atguigu.cache.mapper")
+@MapperScan("com.jrj.cache.mapper")
 @SpringBootApplication
-@EnableCaching
+//@EnableCaching
 public class Springboot01CacheApplication {
 
 	public static void main(String[] args) {

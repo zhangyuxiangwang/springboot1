@@ -81,5 +81,6 @@
 		<module>springboot-mongodb</module>
 		<module>springboot-09-test</module>
         <module>springboot-excel</module>
+        <module>springboot-20181119-jdbcSharding</module>
     </modules>
 </project>

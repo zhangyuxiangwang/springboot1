@@ -8,8 +8,12 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.cache.Cache;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.Cacheable;
-import org.springframework.data.redis.cache.RedisCacheManager;
+//import org.springframework.data.redis.cache.RedisCacheManager;
 import org.springframework.stereotype.Service;
+import sun.applet.resources.MsgAppletViewer;
+
+import java.util.List;
+import java.util.Map;
 
 
 @Service
@@ -18,9 +22,9 @@ public class DeptService {
     @Autowired
     DepartmentMapper departmentMapper;
 
-    @Qualifier("deptCacheManager")
-    @Autowired
-    RedisCacheManager deptCacheManager;
+//    @Qualifier("deptCacheManager")
+//    @Autowired
+//    RedisCacheManager deptCacheManager;
 
 
     /**
@@ -45,10 +49,20 @@ public class DeptService {
         Department department = departmentMapper.getDeptById(id);
 
         //获取某个缓存
-        Cache dept = deptCacheManager.getCache("dept");
-        dept.put("dept:1",department);
+      //  Cache dept = deptCacheManager.getCache("dept");
+       // dept.put("dept:1",department);
 
         return department;
+    }
+
+
+    public List<Map<String ,Object>> maps(){
+
+        return departmentMapper.maps();
+    }
+
+    public Integer insert(String name){
+        return departmentMapper.insert(name);
     }
 
 

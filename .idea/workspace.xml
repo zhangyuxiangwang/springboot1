@@ -1,25 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../admin-console/service/src/main/com/yi23/service/SaleServiceImpl.java" description="if (priceError.split(&quot;,&quot;).length % 5 == 0) {" line="352" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f56c9e-8016-4644-8a31-e95916e96b15" name="Default" comment="上面">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-09-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-09-test/springboot09test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/SpringBootActuator_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-09-test/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/springbootexcel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/SpringBootActuator_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-excel/说明.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/a1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MybatisInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/resources/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/ThreadPoolConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/PropagationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/PropagationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/interceptor/MybatisInterptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/MoneyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/TestPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/ScheduledUser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/configschedlued/ScheduledConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/PropagationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/AllocationOrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/PropagationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/test/java/com/yi23/springboot/TestDruidDatasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ReadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/InfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestFinalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestGCOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestGc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestStringUtilsCommentLang3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/controller/UploadControoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/utils/ImportExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/public/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/resources/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/resources/error/5xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/resources/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/resources/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-excel/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mongodb/springboot-20181119-jdbcSharding/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mongodb/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/springboot-01-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/springboot-01-cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/Springboot01CacheApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/Springboot01CacheApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyCacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyRedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyRedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/service/DeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-cache/src/test/java/com/jrj/cache/Springboot01CacheApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-cache/src/test/java/com/jrj/cache/Springboot01CacheApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-09-test/springboot09test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-09-test/springboot09test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/springbootexcel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/springbootexcel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/SpringBootActuator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/SpringBootExcel_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/target/classes/com/yi23/springboot/SpringBootActuator_App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/说明.text" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/说明.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/springboot-mongodb/target/" />
@@ -33,6 +107,7 @@
     <ignored path="$PROJECT_DIR$/springboot-03-elastic/target/" />
     <ignored path="$PROJECT_DIR$/springboot-09-test/target/" />
     <ignored path="$PROJECT_DIR$/springboot-excel/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +117,34 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/springboot1$Springboot01CacheApplication.ic" NAME="Springboot01CacheApplication Coverage Results" MODIFIED="1536576601444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/springboot1$TestGc.ic" NAME="TestGc Coverage Results" MODIFIED="1543717146159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yi23.springboot.bean.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/UserController.java">
+      <file leaf-file-name="AppStartClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="59" column="13" selection-start-line="43" selection-start-column="8" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,11 +152,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExcelController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java">
+      <file leaf-file-name="PropagationServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="51" column="86" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+            <state relative-caret-position="251">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,36 +164,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HSSFRow.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/hssf/usermodel/HSSFRow.class">
+      <file leaf-file-name="Lamada.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state relative-caret-position="-931">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
-                <element signature="e#1725#1726#0" expanded="true" />
-                <element signature="e#1779#1780#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HSSFCell.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/hssf/usermodel/HSSFCell.class">
+      <file leaf-file-name="TestLamadaRatio.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="305" column="16" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="1447" column="19" selection-start-line="1447" selection-start-column="19" selection-end-line="1447" selection-end-column="19" />
+            <state relative-caret-position="290">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
               <folding>
-                <element signature="e#56437#56438#0" expanded="true" />
-                <element signature="e#56514#56515#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,6 +193,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -116,7 +204,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>package com\.yi23\.springboot\;\n\nimport org\.apache\.poi\.hssf\.usermodel\.\*\;\nimport org\.apache\.poi\.hssf\.util\.HSSFColor\;\nimport org\.springframework\.stereotype\.Controller\;\nimport org\.springframework\.web\.bind\.annotation\.RequestMapping\;\n\nimport javax\.servlet\.ServletOutputStream\;\nimport javax\.servlet\.http\.HttpServletRequest\;\nimport javax\.servlet\.http\.HttpServletResponse\;\nimport java\.io\.ByteArrayOutputStream\;\nimport java\.util\.ArrayList\;\nimport java\.util\.List\;\nimport java\.util\.Map\;\n\n\@Controller\npublic class UserController \{\n\n    \@RequestMapping\(value \= \&quot;\/test\&quot;\)\n\n    public String test\(HttpServletResponse response\, HttpServletRequest request\)\{\n        H \/\/导出数据\n        String\[\] headers \= \{\&quot;PID\&quot;\, \&quot;商品名称\&quot;\, \&quot;款号\&quot;\, \&quot;品牌\&quot;\, \&quot;颜色\&quot;\, \&quot;品类\&quot;\, \&quot;材质\&quot;\, \&quot;材质描述\&quot;\,\&quot;上架状态\&quot; \,\n                \&quot;采购深度\&quot;\,\&quot;可出租数\&quot;\,\&quot;已出租数\&quot;\,\&quot;新品数\&quot;\,\&quot;可准备数\&quot;\,\&quot;售卖件数\&quot;\,\&quot;退出流通数\&quot;\,\&quot;退回供应商数\&quot;\,\&quot;衣二三买断数\&quot;\,\&quot;出租次数\&quot;\, \&quot;供货价\&quot;\,\n                \&quot;吊牌价\&quot;\, \&quot;销售价\&quot;\,\&quot;新品销售价\&quot;\, \&quot;租金\&quot;\,\&quot;初次上架时间\&quot;\}\;\n        String\[\] params \= \{\&quot;product_id\&quot;\, \&quot;product_name\&quot;\, \&quot;partner_pid\&quot;\, \&quot;brand_en_name\&quot;\, \&quot;color_name\&quot;\, \&quot;type_name\&quot;\,\n                \&quot;material_name\&quot;\, \&quot;material_detail\&quot;\,\&quot;isAliveName\&quot; \,\&quot;stockCount\&quot;\,\&quot;rentable\&quot;\,\&quot;rented\&quot;\,\&quot;newSaleNum\&quot;\,\&quot;staging\&quot;\,\&quot;soldOne\&quot;\,\n                \&quot;outCirculate\&quot;\,\&quot;returned\&quot;\,\&quot;yi23BuyOff\&quot;\,\&quot;times\&quot;\, \&quot;supply_price\&quot;\, \&quot;market_price\&quot;\, \&quot;sale_price\&quot;\,\n                \&quot;original_price\&quot;\, \&quot;rent_price\&quot;\, \&quot;initial_sale_time\&quot;\}\;\n\n        List\&lt;Map\&lt;String\, Object\&gt;\&gt; list \= \(pager \!\= null \? pager\.getResultList\(\) \: new ArrayList\&lt;\&gt;\(\)\)\;\n        if \(list\.size\(\) \&gt; 0\) \{\n            HSSFWorkbook workbook \= Yi23Utilities\.exportExcel\(\&quot;商品列表\&quot;\, headers\, params\, list\, request\, response\, \&quot;yyyy\-MM\-dd HH\:mm\:ss\&quot;\)\;\n            try \{\n                ServletOutputStream sos \= response\.getOutputStream\(\)\;\n                ByteArrayOutputStream buffer \= new ByteArrayOutputStream\(\)\;\n                workbook\.write\(buffer\)\;\n                response\.setContentType\(\&quot;application\/vnd\.ms\-excel\&quot;\)\;\n                response\.setContentLength\(buffer\.size\(\)\)\;\n                response\.setHeader\(\&quot;Content\-Disposition\&quot;\, \&quot;attachment\; filename\=productList\.xls\&quot;\)\;\n                response\.setHeader\(\&quot;Pragma\&quot;\, \&quot;public\&quot;\)\;\n                response\.setHeader\(\&quot;Cache\-Control\&quot;\, \&quot;max\-age\=0\&quot;\)\;\n                sos\.write\(buffer\.toByteArray\(\)\)\;\n                buffer\.flush\(\)\;\n                sos\.flush\(\)\;\n            \} catch \(Exception e\) \{\n                System\.out\.println\(\&quot;\-\-\-\-\-\-\&quot;\)\;\n            \}\n        \}\n        return \&quot;\&quot;\;\n    \}\n\n    private HSSFWorkbook exportExcel\(String title\, String\[\] headers\, String\[\] fields\, List list\, HttpServletRequest request\, HttpServletResponse response\, String format\)\{\n            \/\/ 声明一个工作薄\n            HSSFWorkbook workbook \= new HSSFWorkbook\(\)\;\n            List\&lt;List\&gt; subList \= splitList\(list\, 60000\)\;\n            for \(int k \= 0\; k \&lt; subList\.size\(\)\; k\+\+\) \{\n                \/\/ 生成一个表格\n                HSSFSheet sheet \= workbook\.createSheet\(title \+ \&quot;\-\-\&quot; \+ k\)\;\n                \/\/ 设置表格默认列宽度为15个字节\n                sheet\.setDefaultColumnWidth\(\(short\) 15\)\;\n                \/\/ 生成一个样式\n                HSSFCellStyle style \= workbook\.createCellStyle\(\)\;\n                \/\/ 设置这些样式\n                style\.setFillForegroundColor\(HSSFColor\.GREY_25_PERCENT\.index\)\;\n                style\.setFillPattern\(HSSFCellStyle\.SOLID_FOREGROUND\)\;\n                style\.setBorderBottom\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderLeft\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderRight\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderTop\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setAlignment\(HSSFCellStyle\.ALIGN_CENTER\)\;\n                \/\/ 生成一个字体\n                HSSFFont font \= workbook\.createFont\(\)\;\n                font\.setColor\(HSSFColor\.BLACK\.index\)\;\n                font\.setFontHeightInPoints\(\(short\) 12\)\;\n                font\.setBoldweight\(HSSFFont\.BOLDWEIGHT_BOLD\)\;\n                \/\/ 把字体应用到当前的样式\n                style\.setFont\(font\)\;\n                \/\/ 生成并设置另一个样式\n                HSSFCellStyle style2 \= workbook\.createCellStyle\(\)\;\n                style2\.setFillForegroundColor\(HSSFColor\.LIGHT_YELLOW\.index\)\;\n                style2\.setFillPattern\(HSSFCellStyle\.SOLID_FOREGROUND\)\;\n                style2\.setBorderBottom\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderLeft\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderRight\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderTop\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setAlignment\(HSSFCellStyle\.ALIGN_CENTER\)\;\n                style2\.setVerticalAlignment\(HSSFCellStyle\.VERTICAL_CENTER\)\;\n                \/\/ 生成另一个字体\n                HSSFFont font2 \= workbook\.createFont\(\)\;\n                font2\.setBoldweight\(HSSFFont\.BOLDWEIGHT_NORMAL\)\;\n                \/\/ 把字体应用到当前的样式\n                style2\.setFont\(font2\)\;\n\n                \/\/ 声明一个画图的顶级管理器\n\/\/        HSSFPatriarch patriarch \= sheet\.createDrawingPatriarch\(\)\;\n                \/\/ 定义注释的大小和位置\,详见文档\n\/\/        HSSFComment comment \= patriarch\.createComment\(new HSSFClientAnchor\(0\,\n\/\/                0\, 0\, 0\, \(short\) 4\, 2\, \(short\) 6\, 5\)\)\;\n\/\/        \/\/ 设置注释内容\n\/\/        comment\.setString\(new HSSFRichTextString\(\&quot;可以在POI中添加注释\！\&quot;\)\)\;\n\/\/        \/\/ 设置注释作者\，当鼠标移动到单元格上是可以在状态栏中看到该内容\.\n\/\/        comment\.setAuthor\(\&quot;leno\&quot;\)\;\n\n                \/\/ 产生表格标题行\n                HSSFRow row \= sheet\.createRow\(0\)\;\n                for \(short i \= 0\; i \&lt; headers\.length\; i\+\+\) \{\n                    HSSFCell cell \= row\.createCell\(i\)\;\n                    cell\.setCellStyle\(style\)\;\n                    HSSFRichTextString text \= new HSSFRichTextString\(headers\[i\]\)\;\n                    cell\.setCellValue\(text\)\;\n                \}\n\n                for \(int i \= 0\; i \&lt; subList\.get\(k\)\.size\(\)\; i\+\+\) \{\n                    row \= sheet\.createRow\(i \+ 1\)\;\n                    Map map \= \(Map\) subList\.get\(k\)\.get\(i\)\;\n\n                    for \(int j \= 0\; j \&lt; fields\.length\; j\+\+\) \{\n                        int idx \= fields\[j\]\.indexOf\(\&quot;\[\&quot;\)\;\n                        if \(idx \&gt; 0 \&amp;\&amp; fields\[j\]\.endsWith\(\&quot;\]\&quot;\)\) \{\/\/list里有list\n                            String top \= fields\[j\]\.substring\(0\, idx\)\;\n                            String\[\] bodys \= fields\[j\]\.substring\(idx \+ 1\, fields\[j\]\.length\(\) \- 1\)\.split\(\&quot;\,\&quot;\)\;\n                            if \(map\.get\(top\) instanceof List\) \{\n                                List\&lt;Map\&lt;String\, Object\&gt;\&gt; lists \= \(List\&lt;Map\&lt;String\, Object\&gt;\&gt;\) map\.get\(top\)\;\n                                StringBuffer sb \= new StringBuffer\(\)\;\n                                for \(int l \= 0\; l \&lt; lists\.size\(\)\; l\+\+\) \{\n                                    Map\&lt;String\, Object\&gt; mapValue \= lists\.get\(l\)\;\n                                    for \(String body \: bodys\) \{\n                                        String\[\] arrKey \= body\.split\(\&quot;\:\&quot;\)\;\n                                        sb\.append\(arrKey\[0\]\)\;\n                                        sb\.append\(\&quot;\:\&quot;\)\;\n                                        sb\.append\(mapValue\.get\(arrKey\[1\]\)\)\;\n                                    \}\n                                    if \(l \!\= lists\.size\(\) \- 1\) \{\n                                        sb\.append\(\&quot;\\r\&quot;\)\;\n                                    \}\n                                \}\n                                row\.createCell\(j\)\.setCellValue\(sb\.toString\(\)\)\;\n                            \}\n                        \} else \{\n                            row\.createCell\(j\)\.setCellValue\(formatRowVal\(map\.get\(fields\[j\]\)\, format\)\)\;\n                        \}\n                    \}\n                \}\n            \}\n\n            return workbook\;\n        \n    \}\n\n\}\n</find>
+      <find>\&lt;\?xml version\=\&quot;1\.0\&quot; encoding\=\&quot;UTF\-8\&quot;\?\&gt;\n\&lt;project xmlns\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0\&quot;\n         xmlns\:xsi\=\&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n         xsi\:schemaLocation\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0 http\:\/\/maven\.apache\.org\/xsd\/maven\-4\.0\.0\.xsd\&quot;\&gt;\n    \&lt;parent\&gt;\n        \&lt;artifactId\&gt;springboot\&lt;\/artifactId\&gt;\n        \&lt;groupId\&gt;com\.jrj\.springboot\&lt;\/groupId\&gt;\n        \&lt;version\&gt;0\.0\.1\-SNAPSHOT\&lt;\/version\&gt;\n    \&lt;\/parent\&gt;\n    \&lt;modelVersion\&gt;4\.0\.0\&lt;\/modelVersion\&gt;\n\n    \&lt;artifactId\&gt;springboot\-excel\&lt;\/artifactId\&gt;\n\n    \&lt;dependencies\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.apache\.poi\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;poi\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.14\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.apache\.poi\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;poi\-ooxml\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.13\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-starter\-web\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-devtools\&lt;\/artifactId\&gt;\n            \&lt;scope\&gt;runtime\&lt;\/scope\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-starter\-test\&lt;\/artifactId\&gt;\n            \&lt;scope\&gt;test\&lt;\/scope\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;\!\-\- https\:\/\/mvnrepository\.com\/artifact\/com\.alibaba\/fastjson \-\-\&gt; \&lt;dependency\&gt; \&lt;groupId\&gt;com\.alibaba\&lt;\/groupId\&gt; \&lt;artifactId\&gt;fastjson\&lt;\/artifactId\&gt; \&lt;version\&gt;1\.2\.47\&lt;\/version\&gt; \&lt;\/dependency\&gt;\n    \&lt;\/dependencies\&gt;\n\n\n\&lt;\/project\&gt;</find>
       <find>subList</find>
+      <find>package com\.jrj\.cache\.config\;\n\nimport org\.apache\.ibatis\.executor\.statement\.StatementHandler\;\nimport org\.apache\.ibatis\.mapping\.BoundSql\;\nimport org\.apache\.ibatis\.mapping\.ParameterMapping\;\nimport org\.apache\.ibatis\.plugin\.Interceptor\;\nimport org\.apache\.ibatis\.plugin\.Intercepts\;\nimport org\.apache\.ibatis\.plugin\.Invocation\;\nimport org\.apache\.ibatis\.plugin\.Signature\;\n\nimport java\.lang\.reflect\.Method\;\nimport java\.util\.List\;\nimport java\.util\.Properties\;\n\n\@Intercepts\(\@Signature\(method \= \&quot;query\&quot;\,type \= \)\)\npublic class MybatisInterceptor implements Interceptor \{\n    \@Override\n    public Object intercept\(Invocation invocation\) throws Throwable \{\n        Method method \=\n                invocation\.getMethod\(\)\;\n        long startTime \= System\.currentTimeMillis\(\)\;\n\n        StatementHandler statementHandler \= \(StatementHandler\)invocation\.getTarget\(\)\;\n\n        try \{\n            return invocation\.proceed\(\)\;\n        \}finally \{\n            long endTime \= System\.currentTimeMillis\(\)\;\n\n            long sqlCost \= endTime \- startTime\;\n\n\n            BoundSql boundSql \= statementHandler\.getBoundSql\(\)\;\n\n            String sql \= boundSql\.getSql\(\)\;\n\n            Object parameterObject \= boundSql\.getParameterObject\(\)\;\n\n            List\&lt;ParameterMapping\&gt; parameterMappingList \= boundSql\.getParameterMappings\(\)\;\n\n            \/\/ 格式化Sql语句\，去除换行符\，替换参数\n\n            sql \= formatSql\(sql\, parameterObject\, parameterMappingList\)\;\n\n            System\.out\.println\(\&quot;SQL\：\[\&quot; \+ sql \+ \&quot;\]执行耗时\[\&quot; \+ sqlCost \+ \&quot;ms\]\&quot;\)\;\n\n        \}\n\n        return null\;\n    \}\n\n    \@Override\n    public Object plugin\(Object o\) \{\n        return null\;\n    \}\n\n    \@Override\n    public void setProperties\(Properties properties\) \{\n\n    \}\n    \@SuppressWarnings\(\&quot;unchecked\&quot;\)\n\n    private String formatSql\(String sql\, Object parameterObject\, List\&lt;ParameterMapping\&gt; parameterMappingList\) \{\n\n        \/\/ 输入sql字符串空判断\n\n        if \(sql \=\= null \|\| sql\.length\(\) \=\= 0\) \{\n\n            return \&quot;\&quot;\;\n\n        \}\n\n\n\n        \/\/ 美化sql\n\n        sql \= beautifySql\(sql\)\;\n\n\n\n        \/\/ 不传参数的场景\，直接把Sql美化一下返回出去\n\n        if \(parameterObject \=\= null \|\| parameterMappingList \=\= null \|\| parameterMappingList\.size\(\) \=\= 0\) \{\n\n            return sql\;\n\n        \}\n\n\n\n        \/\/ 定义一个没有替换过占位符的sql\，用于出异常时返回\n\n        String sqlWithoutReplacePlaceholder \= sql\;\n\n\n\n        try \{\n\n            if \(parameterMappingList \!\= null\) \{\n\n                Class\&lt;\?\&gt; parameterObjectClass \= parameterObject\.getClass\(\)\;\n\n\n\n                \/\/ 如果参数是StrictMap且Value类型为Collection\，获取key\=\&quot;list\&quot;的属性\，这里主要是为了处理\&lt;foreach\&gt;循环时传入List这种参数的占位符替换\n\n                \/\/ 例如select \* from xxx where id in \&lt;foreach collection\=\&quot;list\&quot;\&gt;\.\.\.\&lt;\/foreach\&gt;\n\n                if \(isStrictMap\(parameterObjectClass\)\) \{\n\n                    StrictMap\&lt;Collection\&lt;\?\&gt;\&gt; strictMap \= \(StrictMap\&lt;Collection\&lt;\?\&gt;\&gt;\)parameterObject\;\n\n\n\n                    if \(isList\(strictMap\.get\(\&quot;list\&quot;\)\.getClass\(\)\)\) \{\n\n                        sql \= handleListParameter\(sql\, strictMap\.get\(\&quot;list\&quot;\)\)\;\n\n                    \}\n\n                \} else if \(isMap\(parameterObjectClass\)\) \{\n\n                    \/\/ 如果参数是Map则直接强转\，通过map\.get\(key\)方法获取真正的属性值\n\n                    \/\/ 这里主要是为了处理\&lt;insert\&gt;\、\&lt;delete\&gt;\、\&lt;update\&gt;\、\&lt;select\&gt;时传入parameterType为map的场景\n\n                    Map\&lt;\?\, \?\&gt; paramMap \= \(Map\&lt;\?\, \?\&gt;\) parameterObject\;\n\n                    sql \= handleMapParameter\(sql\, paramMap\, parameterMappingList\)\;\n\n                \} else \{\n\n                    \/\/ 通用场景\，比如传的是一个自定义的对象或者八种基本数据类型之一或者String\n\n                    sql \= handleCommonParameter\(sql\, parameterMappingList\, parameterObjectClass\, parameterObject\)\;\n\n                \}\n\n            \}\n\n        \} catch \(Exception e\) \{\n\n            \/\/ 占位符替换过程中出现异常\，则返回没有替换过占位符但是格式美化过的sql\，这样至少保证sql语句比BoundSql中的sql更好看\n\n            return sqlWithoutReplacePlaceholder\;\n\n        \}\n\n        return sql\;\n\n    \}\n\}\n</find>
+      <find>asyncPool</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -133,20 +224,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot-01-cache-myself/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/controller/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/config/MyHealthy.java" />
-        <option value="$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/SpringBootActuator_App.java" />
-        <option value="$PROJECT_DIR$/springboot-09-test/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-09-test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/controller/UploadControoller.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/utils/ImportExcelUtil.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyRedisConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/test/java/com/jrj/cache/Springboot01CacheApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MybatisInterceptor.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestFinalize.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestGc.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestGCOld.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestSynchronized.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestStringUtilsCommentLang3.java" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/bean/TestArrayUtils.java" />
         <option value="$PROJECT_DIR$/springboot-excel/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-excel/com/yi23/springboot/SpringBootActuator_App.java" />
-        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/SpringBootActuator_App.java" />
-        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/UserController.java" />
-        <option value="$PROJECT_DIR$/springboot-02-amqp/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-excel/说明.text" />
-        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application.properties.fxml" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/test/java/com/yi23/springboot/TestDruidDatasource.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Response.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/configschedlued/ScheduledConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/ThreadPoolConfiguration.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/ScheduledUser1.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/Springboot01CacheApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyCacheConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/AllocationOrderDetailMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/interceptor/MybatisInterptor.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/MoneyUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/TestPattern.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/Date.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/DateUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/PropagationMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/PropagationDao.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/PropagationService.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/PropagationController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Demo.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java" />
       </list>
     </option>
   </component>
@@ -158,18 +286,31 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="772" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,6 +320,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,25 +331,25 @@
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -215,7 +357,7 @@
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -224,7 +366,7 @@
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -234,9 +376,95 @@
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-excel" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yi23" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yi23" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yi23" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="JDK8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yi23" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yi23" type="462c0819:PsiDirectoryNode" />
@@ -246,12 +474,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -265,21 +493,25 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yi23.springboot.bean" />
+      <recent name="com.yi23.springboot.controller" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.main.java.com.yi23.springboot" />
       <recent name="com.yi23.springboot" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot-09-test/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springboot-09-test/src/main/java/springboot" />
-      <recent name="$PROJECT_DIR$/springboot-09-test/src/main/java" />
-      <recent name="$PROJECT_DIR$/springboot-09-test" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers" />
+      <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/public" />
+      <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot" />
+      <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,14 +526,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootActuator_App (2)">
-    <configuration name="SpringBootActuator_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="springboot.SpringBootActuator_App" />
-      <module name="springboot-09-test" />
+  <component name="RunManager" selected="Application.TestLamadaRatio">
+    <configuration name="AllocationOrderDetailController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.controller.AllocationOrderDetailController" />
+      <module name="springboot20181119jdbcSharding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springboot.*" />
+          <option name="PATTERN" value="com.yi23.springboot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Lamada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.JDK8.Lamada" />
+      <module name="springboot20181119jdbcSharding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yi23.springboot.JDK8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestGc" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.bean.TestGc" />
+      <module name="springbootexcel" />
+      <option name="VM_PARAMETERS" value="-verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yi23.springboot.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestLamadaRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.JDK8.TestLamadaRatio" />
+      <module name="springboot20181119jdbcSharding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yi23.springboot.JDK8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.pattern.TestPattern" />
+      <module name="springboot20181119jdbcSharding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yi23.springboot.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,6 +602,10 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="AppStartClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot20181119jdbcSharding" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yi23.springboot.AppStartClass" />
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-09-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -333,7 +614,11 @@
       <module name="springboot09test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="springboot.SpringBootActuator_App" />
     </configuration>
-    <configuration name="SpringBootActuator_App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringBootActuator_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-08-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.springboot.SpringBootActuator_App" />
+    </configuration>
+    <configuration name="SpringBootActuator_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springbootexcel" />
       <extension name="coverage">
         <pattern>
@@ -343,10 +628,6 @@
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yi23.springboot.SpringBootActuator_App" />
     </configuration>
-    <configuration name="SpringBootActuator_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-08-actuator" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.springboot.SpringBootActuator_App" />
-    </configuration>
     <configuration name="SpringBootElastic_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-03-elastic" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.elastic.SpringBootElastic_App" />
@@ -354,6 +635,16 @@
     <configuration name="SpringBoot_MongoDBAPP_9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-mongodb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.springboot.SpringBoot_MongoDBAPP_9001" />
+    </configuration>
+    <configuration name="Springboot01CacheApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-01-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jrj.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.cache.Springboot01CacheApplication" />
     </configuration>
     <configuration name="Springboot01CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-01-cache-myself" />
@@ -390,6 +681,7 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.TestGc" />
       <item itemvalue="Spring Boot.SpringBoot_MongoDBAPP_9001" />
       <item itemvalue="Spring Boot.SpringBootActuator_App" />
       <item itemvalue="Spring Boot.Springboot01CacheApplication" />
@@ -398,13 +690,20 @@
       <item itemvalue="Spring Boot.SpringBootElastic_App" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.SpringBootActuator_App (1)" />
-      <item itemvalue="Application.SpringBootActuator_App" />
-      <item itemvalue="Spring Boot.SpringBootActuator_App (2)" />
+      <item itemvalue="Spring Boot.AppStartClass" />
+      <item itemvalue="Spring Boot.Springboot01CacheApplication (1)" />
+      <item itemvalue="Application.AllocationOrderDetailController" />
+      <item itemvalue="Application.TestPattern" />
+      <item itemvalue="Application.Lamada" />
+      <item itemvalue="Application.TestLamadaRatio" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringBootActuator_App (2)" />
-        <item itemvalue="Application.SpringBootActuator_App" />
+        <item itemvalue="Application.TestLamadaRatio" />
+        <item itemvalue="Application.Lamada" />
+        <item itemvalue="Application.TestPattern" />
+        <item itemvalue="Application.AllocationOrderDetailController" />
+        <item itemvalue="Spring Boot.Springboot01CacheApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +721,24 @@
       <workItem from="1536578379035" duration="3474000" />
       <workItem from="1536663452798" duration="3452000" />
       <workItem from="1536670482046" duration="157000" />
-      <workItem from="1541387718857" duration="8719000" />
+      <workItem from="1541387718857" duration="19421000" />
+      <workItem from="1541469920027" duration="232000" />
+      <workItem from="1541474675355" duration="8209000" />
+      <workItem from="1541815515528" duration="2527000" />
+      <workItem from="1542020978749" duration="4398000" />
+      <workItem from="1542610650908" duration="1983000" />
+      <workItem from="1543419740116" duration="841000" />
+      <workItem from="1543716864466" duration="9396000" />
+      <workItem from="1544236768764" duration="583000" />
+      <workItem from="1544249824794" duration="9942000" />
+      <workItem from="1544611092660" duration="2746000" />
+      <workItem from="1545388994136" duration="3977000" />
+      <workItem from="1545709245644" duration="28076000" />
+      <workItem from="1546739473011" duration="2010000" />
+      <workItem from="1547432917659" duration="7377000" />
+      <workItem from="1548393626184" duration="2383000" />
+      <workItem from="1548471681218" duration="4000" />
+      <workItem from="1548741746641" duration="5247000" />
     </task>
     <task id="LOCAL-00001" summary="上面">
       <created>1536579884050</created>
@@ -434,46 +750,87 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestDruidDatasource - 2018.12.21 at 19h 25m 32s.xml">
+      <configuration name="TestDruidDatasource" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.21 at 19h 27m 04s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.21 at 19h 30m 02s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 15m 19s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 15m 46s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 16m 20s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 18m 01s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 18m 10s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 18m 51s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDruidDatasource_testDruid - 2018.12.25 at 12h 29m 03s.xml">
+      <configuration name="TestDruidDatasource.testDruid" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17124000" />
+    <option name="totallyTimeSpent" value="117757000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5028612" side_tool="true" weight="0.32848486" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.3090909" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32761088" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.59802306" side_tool="true" weight="0.26752505" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20484848" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.32" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49713877" weight="0.32969698" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32848486" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.24121211" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19241774" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23030303" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40197694" visible="true" weight="0.19098713" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
+      <window_info id="Web" order="2" sideWeight="0.50180507" side_tool="true" weight="0.32546496" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50180507" side_tool="true" weight="0.32546496" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,253 +845,417 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ReadController.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ReadController.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ReadController.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ReadController.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/utils/ImportExcelUtil.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/utils/ImportExcelUtil.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-08-actuator/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/ScheduledUser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <caret line="18" column="25" selection-start-line="14" selection-start-column="12" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/SpringBootActuator_App.java">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/EmployeeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="119">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-08-actuator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/SpringBootActuator_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/Springboot01CacheApplication.java">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/controller/DeptController.java">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/myself/service/EmployeeMyselfService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="301">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/Springboot01CacheApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache-myself/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/java/com/example/demo/DemoApplication.java" />
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-08-actuator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/com/yi23/springboot/SpringBootActuator_App.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1447" column="19" selection-start-line="1447" selection-start-column="19" selection-end-line="1447" selection-end-column="19" />
-          <folding>
-            <element signature="e#56437#56438#0" expanded="true" />
-            <element signature="e#56514#56515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/hssf/usermodel/HSSFCell.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="305" column="16" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/hssf/usermodel/HSSFRow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding>
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#1779#1780#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-02-amqp/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/java/springboot/SpringBootActuator_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-09-test/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/SpringBootActuator_App.java">
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/myself/controller/EmployeeMyselfController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/Springboot01CacheApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/说明.text">
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/UserController.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="59" column="13" selection-start-line="43" selection-start-column="8" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1855" column="42" selection-start-line="1855" selection-start-column="42" selection-end-line="1855" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/interceptor/MybatisInterptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.12.RELEASE/spring-boot-1.5.12.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="146" column="42" selection-start-line="146" selection-start-column="42" selection-end-line="146" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar!/org/apache/commons/collections4/ListUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.12.RELEASE/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3604">
+          <caret line="284" column="42" selection-start-line="284" selection-start-column="42" selection-end-line="284" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/math/NumberUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31280">
+          <caret line="1899" column="26" selection-start-line="1899" selection-start-column="26" selection-end-line="1899" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar!/org/apache/commons/collections4/MapUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="398" column="25" selection-start-line="398" selection-start-column="25" selection-end-line="398" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/MoneyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/Date.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/TestPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/AllocationOrderDetailMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/PropagationMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/PropagationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java">
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="51" column="86" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="100" lean-forward="true" selection-start-line="60" selection-start-column="100" selection-end-line="60" selection-end-column="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/PropagationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/PropagationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="891" column="42" selection-start-line="891" selection-start-column="42" selection-end-line="891" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1749" column="18" selection-start-line="1749" selection-start-column="18" selection-end-line="1749" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="422" column="14" selection-start-line="422" selection-start-column="14" selection-end-line="422" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -793,12 +1314,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springbootexcel</last-edited>
+          <last-edited>Spring|springboot20181119jdbcSharding</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
