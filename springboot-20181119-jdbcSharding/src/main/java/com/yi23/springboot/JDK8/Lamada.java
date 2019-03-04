@@ -96,7 +96,8 @@ public class Lamada {
 
     }
 
-    public static void testPeek(){
+
+    public static void testCherryPick(){
         AllocationOrderDetail build = AllocationOrderDetail.builder().build();
 
         List<AllocationOrderDetail> list=new ArrayList<>();
