@@ -48,7 +48,7 @@ public class Lamada {
 
     public static void mapAndFlatMap(){
         /**获取单词，并且去重**/
-        List<String> list = Arrays.asList("hello welcome", "world hello", "hello world",
+        List<String> list = Arrays.asList("hello welcome     ", "world hello", "hello world",
                 "hello world welcome");
 
         //map和flatmap的区别
