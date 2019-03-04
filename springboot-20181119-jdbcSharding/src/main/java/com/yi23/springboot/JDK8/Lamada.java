@@ -41,7 +41,7 @@ public class Lamada {
         System.out.println("sum is:"+nums.stream().
                 filter(num -> num != null).distinct().mapToInt(num -> num * 2)
                 .peek(System.out::println).skip(2).sum());
-        System.out.println("sum is:"+nums.stream().
+        System.out.println("sum is    :"+nums.stream().
                 filter(num -> num != null).distinct().mapToInt(num -> num * 2)
                 .peek(System.out::println).sum());
     }
