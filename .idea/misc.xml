@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.stereotype.Component" />
+    </list>
+  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <type id="Spring" />
   </component>
@@ -7,6 +12,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

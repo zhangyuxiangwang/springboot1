@@ -10,9 +10,13 @@
     <file url="file://$PROJECT_DIR$/springboot-05-security" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-08-actuator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-09-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-10" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-excel" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mongodb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mongodb/springboot-20181119-jdbcSharding" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootStudy" charset="UTF-8" />
   </component>
 </project>

@@ -18,6 +18,9 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
+/**
+ * @author wangbin
+ */
 @Slf4j
 @Service
 public class AllocationOrderDetailServiceImpl implements AllocationOrderDetailService {
@@ -30,7 +33,12 @@ public class AllocationOrderDetailServiceImpl implements AllocationOrderDetailSe
 
     @Override
     public List<AllocationOrderDetail> getAllocationOrderDetail() {
+        try {
+            Thread.sleep(1000);
+        }catch (Exception e){
 
+        }
+        System.out.println(Thread.currentThread().getName());
         return allocationOrderDetailDao.getAllocationOrderDetail();
     }
 
@@ -96,5 +104,22 @@ public class AllocationOrderDetailServiceImpl implements AllocationOrderDetailSe
             lists = ListUtils.union(lists, list);
         }
         return lists;
+    }
+
+    @Override
+    public List<AllocationOrderDetail> getAllocationOrderDetailListFuture() {
+
+        CompletableFuture<List<AllocationOrderDetail>> future = CompletableFuture.supplyAsync(this::getAllocationOrderDetail, threadPoolTaskExecutor);
+        CompletableFuture<List<AllocationOrderDetail>> future2 = CompletableFuture.supplyAsync(this::getAllocationOrderDetail, threadPoolTaskExecutor);
+        List<AllocationOrderDetail> list =null;
+        try{
+            list = future.get();
+            List<AllocationOrderDetail> list1 = future2.get();
+            list.addAll(list1);
+        }catch (Exception e){
+            System.out.println("出现错误");
+        }
+
+        return list;
     }
 }
