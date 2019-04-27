@@ -24,4 +24,10 @@ public interface AllocationOrderDetailService {
     List<AllocationOrderDetail> getThread();
 
     List<AllocationOrderDetail> getNoThread();
+
+    /**
+     *
+     * @return
+     */
+    List<AllocationOrderDetail> getAllocationOrderDetailListFuture();
 }

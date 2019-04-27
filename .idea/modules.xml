@@ -9,9 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-04-task-mail/springboot-04-task-mail.iml" filepath="$PROJECT_DIR$/springboot-04-task-mail/springboot-04-task-mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-05-security/springboot-05-security.iml" filepath="$PROJECT_DIR$/springboot-05-security/springboot-05-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" filepath="$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10/springboot-10.iml" filepath="$PROJECT_DIR$/springboot-10/springboot-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-09-test/springboot09test.iml" filepath="$PROJECT_DIR$/springboot-09-test/springboot09test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" filepath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootStudy/springbootStudy.iml" filepath="$PROJECT_DIR$/springbootStudy/springbootStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-excel/springbootexcel.iml" filepath="$PROJECT_DIR$/springboot-excel/springbootexcel.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhyxwangGIT_springboot1.iml" filepath="$PROJECT_DIR$/zhyxwangGIT_springboot1.iml" />
     </modules>

@@ -1,0 +1,13 @@
+# Initializers
+org.springframework.context.ApplicationContextInitializer=\
+com.yi23.context.Yi23ApplicationContextInitizer,\
+com.yi23.context.Yi23SecondApplicationContextInitizer
+
+
+org.springframework.context.ApplicationListener=\
+com.yi23.listener.Yi23FirthApplicationListener,\
+com.yi23.listener.StartApplicationListener,\
+com.yi23.listener.SmartMyslefListener
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yi23.auto.AutoSpringbootClass

@@ -13,12 +13,21 @@
         <module name="springboot-04-task-mail" />
         <module name="springboot-05-security" />
         <module name="springboot-08-actuator" />
+        <module name="springboot-10" />
+        <module name="springboot-redis" />
         <module name="springboot09test" />
-        <module name="springboot20181119jdbcSharding" />
         <module name="springbootexcel" />
+        <module name="springbootStudy" />
+      </profile>
+      <profile name="Annotation profile for springboot" enabled="true">
+        <sourceOutputDir name="../springboot-mongodb/springboot-20181119-jdbcSharding/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springboot-mongodb/springboot-20181119-jdbcSharding/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot20181119jdbcSharding" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot" target="1.8" />
       <module name="springboot-01-cache" target="1.8" />
       <module name="springboot-01-cache-myself" target="1.8" />
       <module name="springboot-02-amqp" target="1.8" />
@@ -27,10 +36,13 @@
       <module name="springboot-05-security" target="1.8" />
       <module name="springboot-08-actuator" target="1.8" />
       <module name="springboot-09-test" target="1.8" />
+      <module name="springboot-10" target="1.8" />
       <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
       <module name="springboot09test" target="1.8" />
       <module name="springboot20181119jdbcSharding" target="1.8" />
       <module name="springbootexcel" target="1.8" />
+      <module name="springbootStudy" target="1.8" />
       <module name="zhyxwangGIT_springboot1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../admin-console/service/src/main/com/yi23/service/SaleServiceImpl.java" description="if (priceError.split(&quot;,&quot;).length % 5 == 0) {" line="352" />
+    <bookmark url="file://$PROJECT_DIR$/../admin-console/service/src/main/com/yi23/service/SaleServiceImpl.java" description="if (priceError.split(&quot;,&quot;).length % 5 == 0) {" line="367" />
+    <bookmark url="file://$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/DoorEvent.java" line="9" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e7f56c9e-8016-4644-8a31-e95916e96b15" name="Default" comment="上面" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/springboot-mongodb/target/" />
@@ -18,6 +20,298 @@
     <ignored path="$PROJECT_DIR$/springboot-09-test/target/" />
     <ignored path="$PROJECT_DIR$/springboot-excel/target/" />
     <ignored path="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/" />
+=======
+    <list default="true" id="16bfda0f-29c6-41d4-80fb-613a3784bda2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_stream_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_stream_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_openhft_zero_allocation_hashing_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_2_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/auto/AutoSpringbootClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/auto/MyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/auto/MyselfConditon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/auto/TestCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/aware/FristApplicationContextAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/context/Yi23ApplicationContextInitizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/context/Yi23SecondApplicationContextInitizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/DoorEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/DoorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/DoorNameListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/event/DoorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/listener/SmartMyslefListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/listener/StartApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/listener/Yi23FirthApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/auto/MyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/bean/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationContextBootStrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationEventBootStrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/context/AfterHelloYi23ApplicationContextInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/context/HelloYi23ApplicationContextInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/context/HelloYi23ImplParentApplicationContextInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/controller/CompareFutureTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/controller/PropagationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/dao/PropagationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/event/listener/AfterHelloYi23ApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/event/listener/BeforeConfigFileApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/event/listener/HelloYi23ApplicationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/event/runlistener/HelloYi23SpringApplicationRunListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/BaseConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/BaseResponseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/ParamAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/ParamAssertException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/ResponseAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/SystemExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/response/SystemExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/src/main/resources/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10/说明.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MyRedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/CompareFutureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/RedisDistributedLockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/AllocationOrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/cache/Redissionutils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/RessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/ThreadPoolExcution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/springbootStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/AppStartClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/JDK8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/JDK8/Lamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/bean/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/configuration/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/configuration/ThreadPoolConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/controller/PropagationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/dao/PropagationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interceptor/MybatisInterptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ABATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ArrayListException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ArrayListRemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/AtomicIntegerCompareAndSweep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockQueueConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CallableAndFutureTasktest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CyclibarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/MyTheadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReadWriteLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReentrantLockTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SemaphreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SingleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SpinLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SynchronousQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Testlamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/pattern/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/pattern/MoneyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/pattern/TestPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/BaseConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/BaseResponseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/ParamAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/ParamAssertException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/ResponseAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/SystemExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/response/SystemExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/scheduled/ScheduledUser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/scheduled/configschedlued/ScheduledConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/service/PropagationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/mappers/AllocationOrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/mappers/PropagationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/main/resources/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/src/test/java/com/yi23/springboot/TestDruidDatasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/AppStartClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/JDK8/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/JDK8/Lamada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/JDK8/TestLamadaRatio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/bean/AllocationOrderDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/bean/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/configuration/DruidConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/configuration/ThreadPoolConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/controller/AllocationOrderDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/controller/PropagationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/dao/AllocationOrderDetailDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/dao/PropagationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/interceptor/MybatisInterptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/pattern/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/pattern/MoneyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/pattern/TestPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/scheduled/ScheduledUser1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/scheduled/configschedlued/ScheduledConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/service/AllocationOrderDetailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/service/PropagationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/com/yi23/springboot/service/impl/PropagationServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/mappers/AllocationOrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/mappers/PropagationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/classes/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootStudy/target/test-classes/com/yi23/springboot/TestDruidDatasource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/springboot20181119jdbcSharding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/JDK8/Lamada.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/JDK8/Lamada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/JDK8/TestLamadaRatio.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/JDK8/TestLamadaRatio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/controller/AllocationOrderDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/controller/AllocationOrderDetailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/service/AllocationOrderDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/service/AllocationOrderDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/classes/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-excel/target/classes/com/yi23/springboot/ExcelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-excel/target/classes/com/yi23/springboot/ExcelController.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/springboot-02-amqp/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-04-task-mail/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-09-test/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-01-cache-myself/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-01-cache/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-05-security/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-excel/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-03-elastic/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-08-actuator/target/" />
+    <ignored path="$PROJECT_DIR$/springbootStudy/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-20181119-jdbcSharding/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-10/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-redis/target/" />
+>>>>>>> ad2e58e... 面试
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +320,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/springboot1$ArrayListRemoveTest.ic" NAME="ArrayListRemoveTest Coverage Results" MODIFIED="1556023716912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yi23.springboot.interview.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/springboot1$Springboot01CacheApplication.ic" NAME="Springboot01CacheApplication Coverage Results" MODIFIED="1536576601444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/springboot1$TestGc.ic" NAME="TestGc Coverage Results" MODIFIED="1543717146159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.yi23.springboot.bean.*</FILTER>
@@ -46,15 +343,233 @@
     <select />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="springboot1" />
+    <favorites_list name="springboot1">
+      <favorite_root url="file://$PROJECT_DIR$/springboot-redis" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/auto" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/auto/MyComponent.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/auto/TestCondition.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/auto/MyselfConditon.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/auto/AutoSpringbootClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/aware" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/aware/FristApplicationContextAware.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event/Door.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event/DoorTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event/DoorEvent.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event/DoorListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/event/DoorNameListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/context" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/context/Yi23ApplicationContextInitizer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/context/Yi23SecondApplicationContextInitizer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/listener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/listener/SmartMyslefListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/listener/StartApplicationListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/listener/Yi23FirthApplicationListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/dao" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/dao/PropagationDao.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/auto" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/auto/MyComponent.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bean" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bean/Response.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/listener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/listener/HelloYi23ApplicationListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/listener/AfterHelloYi23ApplicationListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/listener/BeforeConfigFileApplicationListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/runlistener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/event/runlistener/HelloYi23SpringApplicationRunListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/context" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/context/HelloYi23ApplicationContextInitializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/context/AfterHelloYi23ApplicationContextInitializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/context/HelloYi23ImplParentApplicationContextInitializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/Response.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/DataUtils.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/ParamAssert.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/BaseConstant.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/BaseResponseVO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/ResponseAspect.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/SystemException.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/SystemExceptionEnum.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/ParamAssertException.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/response/SystemExceptionHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bootstrap" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationBootstrap.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationEventBootStrap.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/bootstrap/SpringApplicationContextBootStrap.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/controller" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/controller/PropagationController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/controller/CompareFutureTestController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/java/com/yi23/springboot/SpringbootApplication.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/public" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/public/favicon.ico" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/static" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/META-INF" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/META-INF/spring.factories" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/main/resources/application.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test/java" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test/java/com" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test/java/com/yi23" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test/java/com/yi23/springboot" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/src/test/java/com/yi23/springboot/SpringbootApplicationTests.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.mvn" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.mvn/wrapper" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.mvn/wrapper/maven-wrapper.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.mvn/wrapper/maven-wrapper.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.mvn/wrapper/MavenWrapperDownloader.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/mvnw" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/说明.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/auto" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/auto/MyComponent.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/auto/TestCondition.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/auto/AutoSpringbootClass.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event/Door.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event/DoorTest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event/DoorEvent.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event/DoorListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/event/DoorNameListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/context" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/context/Yi23ApplicationContextInitizer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/context/Yi23SecondApplicationContextInitizer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/listener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/listener/SmartMyslefListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/listener/StartApplicationListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/listener/Yi23FirthApplicationListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/listener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/listener/HelloYi23ApplicationListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/listener/AfterHelloYi23ApplicationListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/listener/BeforeConfigFileApplicationListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/runlistener" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/event/runlistener/HelloYi23SpringApplicationRunListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/context" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/context/HelloYi23ApplicationContextInitializer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/context/AfterHelloYi23ApplicationContextInitializer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/context/HelloYi23ImplParentApplicationContextInitializer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/Response.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/DataUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/ParamAssert.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/BaseConstant.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/BaseResponseVO.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/ResponseAspect.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/SystemException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/SystemExceptionEnum.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/ParamAssertException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/response/SystemExceptionHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/bootstrap" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/bootstrap/aa.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/bootstrap/SpringApplicationBootstrap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/bootstrap/SpringApplicationEventBootStrap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/bootstrap/SpringApplicationContextBootStrap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/controller" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/controller/PropagationController.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/com/yi23/springboot/SpringbootApplication.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/public" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/public/favicon.ico" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/META-INF" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/META-INF/spring.factories" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/classes/application.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/test-classes" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/test-classes/com" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/test-classes/com/yi23" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/test-classes/com/yi23/springboot" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/test-classes/com/yi23/springboot/SpringbootApplicationTests.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/generated-sources" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/generated-sources/annotations" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/generated-test-sources" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-redis/target/generated-test-sources/test-annotations" module="zhyxwangGIT_springboot1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/HELP.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/mvnw.cmd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/springboot-redis/springboot-10.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppStartClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java">
+      <file leaf-file-name="MyTheadPoolDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/MyTheadPoolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+=======
+            <state relative-caret-position="255">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="74" />
+>>>>>>> ad2e58e... 面试
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,26 +577,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropagationServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java">
+      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="323">
               <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="17">
+              <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+>>>>>>> ad2e58e... 面试
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lamada.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java">
+      <file leaf-file-name="TimeUnit.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="316">
               <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+=======
+            <state relative-caret-position="3349">
+              <caret line="232" column="16" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="16" />
+>>>>>>> ad2e58e... 面试
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#8926#8927#0" expanded="true" />
+                <element signature="e#8973#8974#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RejectedExecutionHandler.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -91,16 +635,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Kotlin File" />
         <option value="HTML File" />
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
+=======
+        <option value="AnnotationType" />
+>>>>>>> ad2e58e... 面试
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
       <find>package com\.yi23\.springboot\;\n\nimport org\.apache\.poi\.hssf\.usermodel\.\*\;\nimport org\.apache\.poi\.hssf\.util\.HSSFColor\;\nimport org\.springframework\.stereotype\.Controller\;\nimport org\.springframework\.web\.bind\.annotation\.RequestMapping\;\n\nimport javax\.servlet\.ServletOutputStream\;\nimport javax\.servlet\.http\.HttpServletRequest\;\nimport javax\.servlet\.http\.HttpServletResponse\;\nimport java\.io\.ByteArrayOutputStream\;\nimport java\.util\.ArrayList\;\nimport java\.util\.List\;\nimport java\.util\.Map\;\n\n\@Controller\npublic class UserController \{\n\n    \@RequestMapping\(value \= \&quot;\/test\&quot;\)\n\n    public String test\(HttpServletResponse response\, HttpServletRequest request\)\{\n        H \/\/导出数据\n        String\[\] headers \= \{\&quot;PID\&quot;\, \&quot;商品名称\&quot;\, \&quot;款号\&quot;\, \&quot;品牌\&quot;\, \&quot;颜色\&quot;\, \&quot;品类\&quot;\, \&quot;材质\&quot;\, \&quot;材质描述\&quot;\,\&quot;上架状态\&quot; \,\n                \&quot;采购深度\&quot;\,\&quot;可出租数\&quot;\,\&quot;已出租数\&quot;\,\&quot;新品数\&quot;\,\&quot;可准备数\&quot;\,\&quot;售卖件数\&quot;\,\&quot;退出流通数\&quot;\,\&quot;退回供应商数\&quot;\,\&quot;衣二三买断数\&quot;\,\&quot;出租次数\&quot;\, \&quot;供货价\&quot;\,\n                \&quot;吊牌价\&quot;\, \&quot;销售价\&quot;\,\&quot;新品销售价\&quot;\, \&quot;租金\&quot;\,\&quot;初次上架时间\&quot;\}\;\n        String\[\] params \= \{\&quot;product_id\&quot;\, \&quot;product_name\&quot;\, \&quot;partner_pid\&quot;\, \&quot;brand_en_name\&quot;\, \&quot;color_name\&quot;\, \&quot;type_name\&quot;\,\n                \&quot;material_name\&quot;\, \&quot;material_detail\&quot;\,\&quot;isAliveName\&quot; \,\&quot;stockCount\&quot;\,\&quot;rentable\&quot;\,\&quot;rented\&quot;\,\&quot;newSaleNum\&quot;\,\&quot;staging\&quot;\,\&quot;soldOne\&quot;\,\n                \&quot;outCirculate\&quot;\,\&quot;returned\&quot;\,\&quot;yi23BuyOff\&quot;\,\&quot;times\&quot;\, \&quot;supply_price\&quot;\, \&quot;market_price\&quot;\, \&quot;sale_price\&quot;\,\n                \&quot;original_price\&quot;\, \&quot;rent_price\&quot;\, \&quot;initial_sale_time\&quot;\}\;\n\n        List\&lt;Map\&lt;String\, Object\&gt;\&gt; list \= \(pager \!\= null \? pager\.getResultList\(\) \: new ArrayList\&lt;\&gt;\(\)\)\;\n        if \(list\.size\(\) \&gt; 0\) \{\n            HSSFWorkbook workbook \= Yi23Utilities\.exportExcel\(\&quot;商品列表\&quot;\, headers\, params\, list\, request\, response\, \&quot;yyyy\-MM\-dd HH\:mm\:ss\&quot;\)\;\n            try \{\n                ServletOutputStream sos \= response\.getOutputStream\(\)\;\n                ByteArrayOutputStream buffer \= new ByteArrayOutputStream\(\)\;\n                workbook\.write\(buffer\)\;\n                response\.setContentType\(\&quot;application\/vnd\.ms\-excel\&quot;\)\;\n                response\.setContentLength\(buffer\.size\(\)\)\;\n                response\.setHeader\(\&quot;Content\-Disposition\&quot;\, \&quot;attachment\; filename\=productList\.xls\&quot;\)\;\n                response\.setHeader\(\&quot;Pragma\&quot;\, \&quot;public\&quot;\)\;\n                response\.setHeader\(\&quot;Cache\-Control\&quot;\, \&quot;max\-age\=0\&quot;\)\;\n                sos\.write\(buffer\.toByteArray\(\)\)\;\n                buffer\.flush\(\)\;\n                sos\.flush\(\)\;\n            \} catch \(Exception e\) \{\n                System\.out\.println\(\&quot;\-\-\-\-\-\-\&quot;\)\;\n            \}\n        \}\n        return \&quot;\&quot;\;\n    \}\n\n    private HSSFWorkbook exportExcel\(String title\, String\[\] headers\, String\[\] fields\, List list\, HttpServletRequest request\, HttpServletResponse response\, String format\)\{\n            \/\/ 声明一个工作薄\n            HSSFWorkbook workbook \= new HSSFWorkbook\(\)\;\n            List\&lt;List\&gt; subList \= splitList\(list\, 60000\)\;\n            for \(int k \= 0\; k \&lt; subList\.size\(\)\; k\+\+\) \{\n                \/\/ 生成一个表格\n                HSSFSheet sheet \= workbook\.createSheet\(title \+ \&quot;\-\-\&quot; \+ k\)\;\n                \/\/ 设置表格默认列宽度为15个字节\n                sheet\.setDefaultColumnWidth\(\(short\) 15\)\;\n                \/\/ 生成一个样式\n                HSSFCellStyle style \= workbook\.createCellStyle\(\)\;\n                \/\/ 设置这些样式\n                style\.setFillForegroundColor\(HSSFColor\.GREY_25_PERCENT\.index\)\;\n                style\.setFillPattern\(HSSFCellStyle\.SOLID_FOREGROUND\)\;\n                style\.setBorderBottom\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderLeft\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderRight\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setBorderTop\(HSSFCellStyle\.BORDER_THIN\)\;\n                style\.setAlignment\(HSSFCellStyle\.ALIGN_CENTER\)\;\n                \/\/ 生成一个字体\n                HSSFFont font \= workbook\.createFont\(\)\;\n                font\.setColor\(HSSFColor\.BLACK\.index\)\;\n                font\.setFontHeightInPoints\(\(short\) 12\)\;\n                font\.setBoldweight\(HSSFFont\.BOLDWEIGHT_BOLD\)\;\n                \/\/ 把字体应用到当前的样式\n                style\.setFont\(font\)\;\n                \/\/ 生成并设置另一个样式\n                HSSFCellStyle style2 \= workbook\.createCellStyle\(\)\;\n                style2\.setFillForegroundColor\(HSSFColor\.LIGHT_YELLOW\.index\)\;\n                style2\.setFillPattern\(HSSFCellStyle\.SOLID_FOREGROUND\)\;\n                style2\.setBorderBottom\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderLeft\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderRight\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setBorderTop\(HSSFCellStyle\.BORDER_THIN\)\;\n                style2\.setAlignment\(HSSFCellStyle\.ALIGN_CENTER\)\;\n                style2\.setVerticalAlignment\(HSSFCellStyle\.VERTICAL_CENTER\)\;\n                \/\/ 生成另一个字体\n                HSSFFont font2 \= workbook\.createFont\(\)\;\n                font2\.setBoldweight\(HSSFFont\.BOLDWEIGHT_NORMAL\)\;\n                \/\/ 把字体应用到当前的样式\n                style2\.setFont\(font2\)\;\n\n                \/\/ 声明一个画图的顶级管理器\n\/\/        HSSFPatriarch patriarch \= sheet\.createDrawingPatriarch\(\)\;\n                \/\/ 定义注释的大小和位置\,详见文档\n\/\/        HSSFComment comment \= patriarch\.createComment\(new HSSFClientAnchor\(0\,\n\/\/                0\, 0\, 0\, \(short\) 4\, 2\, \(short\) 6\, 5\)\)\;\n\/\/        \/\/ 设置注释内容\n\/\/        comment\.setString\(new HSSFRichTextString\(\&quot;可以在POI中添加注释\！\&quot;\)\)\;\n\/\/        \/\/ 设置注释作者\，当鼠标移动到单元格上是可以在状态栏中看到该内容\.\n\/\/        comment\.setAuthor\(\&quot;leno\&quot;\)\;\n\n                \/\/ 产生表格标题行\n                HSSFRow row \= sheet\.createRow\(0\)\;\n                for \(short i \= 0\; i \&lt; headers\.length\; i\+\+\) \{\n                    HSSFCell cell \= row\.createCell\(i\)\;\n                    cell\.setCellStyle\(style\)\;\n                    HSSFRichTextString text \= new HSSFRichTextString\(headers\[i\]\)\;\n                    cell\.setCellValue\(text\)\;\n                \}\n\n                for \(int i \= 0\; i \&lt; subList\.get\(k\)\.size\(\)\; i\+\+\) \{\n                    row \= sheet\.createRow\(i \+ 1\)\;\n                    Map map \= \(Map\) subList\.get\(k\)\.get\(i\)\;\n\n                    for \(int j \= 0\; j \&lt; fields\.length\; j\+\+\) \{\n                        int idx \= fields\[j\]\.indexOf\(\&quot;\[\&quot;\)\;\n                        if \(idx \&gt; 0 \&amp;\&amp; fields\[j\]\.endsWith\(\&quot;\]\&quot;\)\) \{\/\/list里有list\n                            String top \= fields\[j\]\.substring\(0\, idx\)\;\n                            String\[\] bodys \= fields\[j\]\.substring\(idx \+ 1\, fields\[j\]\.length\(\) \- 1\)\.split\(\&quot;\,\&quot;\)\;\n                            if \(map\.get\(top\) instanceof List\) \{\n                                List\&lt;Map\&lt;String\, Object\&gt;\&gt; lists \= \(List\&lt;Map\&lt;String\, Object\&gt;\&gt;\) map\.get\(top\)\;\n                                StringBuffer sb \= new StringBuffer\(\)\;\n                                for \(int l \= 0\; l \&lt; lists\.size\(\)\; l\+\+\) \{\n                                    Map\&lt;String\, Object\&gt; mapValue \= lists\.get\(l\)\;\n                                    for \(String body \: bodys\) \{\n                                        String\[\] arrKey \= body\.split\(\&quot;\:\&quot;\)\;\n                                        sb\.append\(arrKey\[0\]\)\;\n                                        sb\.append\(\&quot;\:\&quot;\)\;\n                                        sb\.append\(mapValue\.get\(arrKey\[1\]\)\)\;\n                                    \}\n                                    if \(l \!\= lists\.size\(\) \- 1\) \{\n                                        sb\.append\(\&quot;\\r\&quot;\)\;\n                                    \}\n                                \}\n                                row\.createCell\(j\)\.setCellValue\(sb\.toString\(\)\)\;\n                            \}\n                        \} else \{\n                            row\.createCell\(j\)\.setCellValue\(formatRowVal\(map\.get\(fields\[j\]\)\, format\)\)\;\n                        \}\n                    \}\n                \}\n            \}\n\n            return workbook\;\n        \n    \}\n\n\}\n</find>
       <find>\&lt;\?xml version\=\&quot;1\.0\&quot; encoding\=\&quot;UTF\-8\&quot;\?\&gt;\n\&lt;project xmlns\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0\&quot;\n         xmlns\:xsi\=\&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n         xsi\:schemaLocation\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0 http\:\/\/maven\.apache\.org\/xsd\/maven\-4\.0\.0\.xsd\&quot;\&gt;\n    \&lt;parent\&gt;\n        \&lt;artifactId\&gt;springboot\&lt;\/artifactId\&gt;\n        \&lt;groupId\&gt;com\.jrj\.springboot\&lt;\/groupId\&gt;\n        \&lt;version\&gt;0\.0\.1\-SNAPSHOT\&lt;\/version\&gt;\n    \&lt;\/parent\&gt;\n    \&lt;modelVersion\&gt;4\.0\.0\&lt;\/modelVersion\&gt;\n\n    \&lt;artifactId\&gt;springboot\-excel\&lt;\/artifactId\&gt;\n\n    \&lt;dependencies\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.apache\.poi\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;poi\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.14\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.apache\.poi\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;poi\-ooxml\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.13\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-starter\-web\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-devtools\&lt;\/artifactId\&gt;\n            \&lt;scope\&gt;runtime\&lt;\/scope\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.springframework\.boot\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;spring\-boot\-starter\-test\&lt;\/artifactId\&gt;\n            \&lt;scope\&gt;test\&lt;\/scope\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;\!\-\- https\:\/\/mvnrepository\.com\/artifact\/com\.alibaba\/fastjson \-\-\&gt; \&lt;dependency\&gt; \&lt;groupId\&gt;com\.alibaba\&lt;\/groupId\&gt; \&lt;artifactId\&gt;fastjson\&lt;\/artifactId\&gt; \&lt;version\&gt;1\.2\.47\&lt;\/version\&gt; \&lt;\/dependency\&gt;\n    \&lt;\/dependencies\&gt;\n\n\n\&lt;\/project\&gt;</find>
       <find>subList</find>
@@ -112,6 +661,22 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/springboot-09-test/src/main/java/com/example/demo</dir>
+=======
+      <find>org.springframework.boot.diagnostics.analyzer.BeanCurrentlyInCreationFailureAnalyzer</find>
+      <find>@Import</find>
+      <find>@Documented</find>
+      <find>SpringDataJacksonConfiguration</find>
+      <find>@Condition</find>
+      <find>instantiateFactory</find>
+      <find>spring.redis.cluster.nodes</find>
+      <find>redi</find>
+      <find>modCount</find>
+      <find>checkForComodification</find>
+      <find>newCo</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/springboot-excel</dir>
+>>>>>>> ad2e58e... 面试
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -127,6 +692,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/controller/UploadControoller.java" />
         <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/utils/ImportExcelUtil.java" />
         <option value="$PROJECT_DIR$/springboot-01-cache/pom.xml" />
@@ -178,6 +744,59 @@
         <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Demo.java" />
         <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java" />
         <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java" />
+=======
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/CompareFutureController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Node.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestNode.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/Department.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/RedisDistributedLock.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/RedisDistributedLockController.java" />
+        <option value="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MyRedisConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/RessionConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/service/UserService.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/cache/Redissionutils.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot/config/ThreadPoolExcution.java" />
+        <option value="$PROJECT_DIR$/springboot-redis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot/controller/CompareFutureTestController.java" />
+        <option value="$PROJECT_DIR$/springboot-10/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-excel/src/main/java/com/yi23/springboot/ExcelController.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SingleTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/interview.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/AtomicIntegerCompareAndSweep.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ABATest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ArrayListException.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ArrayListRemoveTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/HashSetTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest2.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReentrantLockTest3.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SpinLock.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Testlamada.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReadWriteLockTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Test.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CyclibarrierTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SemaphreTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SynchronousQueueTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Consumer.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ConditionTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockQueueConsumerTest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CallableAndFutureTasktest.java" />
+        <option value="$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/MyTheadPoolDemo.java" />
+>>>>>>> ad2e58e... 面试
       </list>
     </option>
   </component>
@@ -192,16 +811,32 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+<<<<<<< HEAD
           <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+=======
+          <item name="springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+>>>>>>> ad2e58e... 面试
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+<<<<<<< HEAD
           <item name="springboot-20181119-jdbcSharding" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+=======
+          <item name="springboot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+>>>>>>> ad2e58e... 面试
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -211,9 +846,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+>>>>>>> ad2e58e... 面试
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -223,7 +865,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,134 +876,77 @@
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yi23" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yi23" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yi23" type="462c0819:PsiDirectoryNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yi23" type="462c0819:PsiDirectoryNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="JDK8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yi23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot1" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-20181119-jdbcSharding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yi23" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,6 +965,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
+<<<<<<< HEAD
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
@@ -398,6 +984,25 @@
       <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources" />
       <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot" />
       <recent name="$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service" />
+=======
+    <property name="project.structure.side.proportion" value="0.3209352" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yi23.springboot.bean" />
+      <recent name="com.yi23.springboot.configuration" />
+      <recent name="com.yi23.springboot.bootstrap.controller" />
+      <recent name="com.yi23.springboot.response" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot-redis/src/main/java/com/jrj/springboot" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/springboot" />
+      <recent name="$PROJECT_DIR$/springboot-10/src/main/java/com/yi23" />
+      <recent name="$PROJECT_DIR$/springboot-10/src/main/resources" />
+>>>>>>> ad2e58e... 面试
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,29 +1017,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLamadaRatio">
-    <configuration name="AllocationOrderDetailController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.controller.AllocationOrderDetailController" />
-      <module name="springboot20181119jdbcSharding" />
+  <component name="RunManager" selected="Application.MyTheadPoolDemo">
+    <configuration name="BlockQueueConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.interview.BlockQueueConsumerTest" />
+      <module name="springbootStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yi23.springboot.controller.*" />
+          <option name="PATTERN" value="com.yi23.springboot.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Lamada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.JDK8.Lamada" />
-      <module name="springboot20181119jdbcSharding" />
+    <configuration name="CallableAndFutureTasktest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.interview.CallableAndFutureTasktest" />
+      <module name="springbootStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yi23.springboot.JDK8.*" />
+          <option name="PATTERN" value="com.yi23.springboot.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.interview.ConditionTest" />
+      <module name="springbootStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yi23.springboot.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="TestGc" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.bean.TestGc" />
       <module name="springbootexcel" />
@@ -450,21 +1067,26 @@
     <configuration name="TestLamadaRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.JDK8.TestLamadaRatio" />
       <module name="springboot20181119jdbcSharding" />
+=======
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.interview.Consumer" />
+      <module name="springbootStudy" />
+>>>>>>> ad2e58e... 面试
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yi23.springboot.JDK8.*" />
+          <option name="PATTERN" value="com.yi23.springboot.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.pattern.TestPattern" />
-      <module name="springboot20181119jdbcSharding" />
+    <configuration name="MyTheadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yi23.springboot.interview.MyTheadPoolDemo" />
+      <module name="springbootStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yi23.springboot.pattern.*" />
+          <option name="PATTERN" value="com.yi23.springboot.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -488,6 +1110,7 @@
       </option>
       <patterns />
     </configuration>
+<<<<<<< HEAD
     <configuration name="AppStartClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot20181119jdbcSharding" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yi23.springboot.AppStartClass" />
@@ -513,6 +1136,15 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yi23.springboot.SpringBootActuator_App" />
+=======
+    <configuration name="SpringBootActuator_App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-08-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.springboot.SpringBootActuator_App" />
+    </configuration>
+    <configuration name="SpringBootActuator_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot09test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springboot.SpringBootActuator_App" />
+>>>>>>> ad2e58e... 面试
     </configuration>
     <configuration name="SpringBootElastic_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-03-elastic" />
@@ -522,6 +1154,7 @@
       <module name="springboot-mongodb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.springboot.SpringBoot_MongoDBAPP_9001" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Springboot01CacheApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot-01-cache" />
       <extension name="coverage">
@@ -536,6 +1169,12 @@
       <module name="springboot-01-cache-myself" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.cache.Springboot01CacheApplication" />
     </configuration>
+=======
+    <configuration name="Springboot01CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-cache-myself" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrj.cache.Springboot01CacheApplication" />
+    </configuration>
+>>>>>>> ad2e58e... 面试
     <configuration name="Springboot04TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-04-task-mail" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.task.Springboot04TaskApplication" />
@@ -544,6 +1183,13 @@
       <module name="springboot-05-security" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.security.Springboot05SecurityApplication" />
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yi23.springboot.SpringbootApplication" />
+    </configuration>
+>>>>>>> ad2e58e... 面试
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -567,6 +1213,7 @@
       <listeners />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.TestGc" />
       <item itemvalue="Spring Boot.SpringBoot_MongoDBAPP_9001" />
       <item itemvalue="Spring Boot.SpringBootActuator_App" />
@@ -582,14 +1229,29 @@
       <item itemvalue="Application.TestPattern" />
       <item itemvalue="Application.Lamada" />
       <item itemvalue="Application.TestLamadaRatio" />
+=======
+      <item itemvalue="Spring Boot.SpringBoot_MongoDBAPP_9001" />
+      <item itemvalue="Spring Boot.Springboot04TaskApplication" />
+      <item itemvalue="Spring Boot.SpringBootActuator_App" />
+      <item itemvalue="Spring Boot.Springboot01CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot05SecurityApplication" />
+      <item itemvalue="Spring Boot.SpringBootElastic_App" />
+      <item itemvalue="Spring Boot.SpringBootActuator_App (1)" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="Application.ConditionTest" />
+      <item itemvalue="Application.BlockQueueConsumerTest" />
+      <item itemvalue="Application.CallableAndFutureTasktest" />
+      <item itemvalue="Application.MyTheadPoolDemo" />
+>>>>>>> ad2e58e... 面试
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestLamadaRatio" />
-        <item itemvalue="Application.Lamada" />
-        <item itemvalue="Application.TestPattern" />
-        <item itemvalue="Application.AllocationOrderDetailController" />
-        <item itemvalue="Spring Boot.Springboot01CacheApplication (1)" />
+        <item itemvalue="Application.MyTheadPoolDemo" />
+        <item itemvalue="Application.CallableAndFutureTasktest" />
+        <item itemvalue="Application.BlockQueueConsumerTest" />
+        <item itemvalue="Application.ConditionTest" />
+        <item itemvalue="Application.Consumer" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +1260,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e7f56c9e-8016-4644-8a31-e95916e96b15" name="Default" comment="" />
+      <changelist id="16bfda0f-29c6-41d4-80fb-613a3784bda2" name="Default" comment="" />
       <created>1536575579047</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -625,7 +1287,26 @@
       <workItem from="1548393626184" duration="2383000" />
       <workItem from="1548471681218" duration="4000" />
       <workItem from="1548741746641" duration="5247000" />
+<<<<<<< HEAD
       <workItem from="1551686524326" duration="493000" />
+=======
+      <workItem from="1551686524326" duration="6755000" />
+      <workItem from="1552621101255" duration="23102000" />
+      <workItem from="1553080438734" duration="693000" />
+      <workItem from="1553138694911" duration="624000" />
+      <workItem from="1553224013649" duration="12164000" />
+      <workItem from="1553528499180" duration="8742000" />
+      <workItem from="1553678114419" duration="4256000" />
+      <workItem from="1553873284046" duration="1019000" />
+      <workItem from="1554367007402" duration="5316000" />
+      <workItem from="1555065093358" duration="605000" />
+      <workItem from="1555402330835" duration="14000" />
+      <workItem from="1555859310372" duration="3969000" />
+      <workItem from="1555936470979" duration="12691000" />
+      <workItem from="1556072984483" duration="11417000" />
+      <workItem from="1556196142668" duration="7272000" />
+      <workItem from="1556244665426" duration="68000" />
+>>>>>>> ad2e58e... 面试
     </task>
     <task id="LOCAL-00001" summary="上面">
       <created>1536579884050</created>
@@ -670,7 +1351,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="118250000" />
+=======
+    <option name="totallyTimeSpent" value="97876000" />
+>>>>>>> ad2e58e... 面试
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,38 +1372,85 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.3090909" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32761088" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.59802306" side_tool="true" weight="0.26752505" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.58096826" side_tool="true" weight="0.20886981" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.32" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.31025958" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32880098" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.24121211" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5117429" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40197694" weight="0.19098713" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32880098" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.33374536" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.34181818" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4190317" weight="0.20886981" />
+>>>>>>> ad2e58e... 面试
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
-      <window_info id="Web" order="2" sideWeight="0.50180507" side_tool="true" weight="0.32546496" />
-      <window_info anchor="bottom" id="JProfiler" />
+      <window_info id="Web" order="2" sideWeight="0.5562423" side_tool="true" weight="0.27825466" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50180507" side_tool="true" weight="0.32546496" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49713877" weight="0.32969698" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49713877" weight="0.3263288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3297568" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.33374536" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50180507" side_tool="true" weight="0.32546496" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.34181818" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.3090909" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49713877" weight="0.3263288" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32880098" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32761088" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4190317" weight="0.20886981" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" sideWeight="0.5562423" side_tool="true" weight="0.27825466" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.58096826" side_tool="true" weight="0.20886981" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297568" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.31025958" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -769,383 +1501,651 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>331</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>326</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>298</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>428</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>1187</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>1188</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>419</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>438</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>303</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-10/src/main/java/com/yi23/auto/AutoSpringbootClass.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>305</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>300</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>606</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>586</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>313</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>315</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>316</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>1586</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>392</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>370</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>615</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>430</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>431</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/context/event/EventPublishingRunListener.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>788</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>541</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>899</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>845</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>867</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>842</line>
+          <properties field="expectedModCount" class="java.util.ArrayList.Itr" />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockingQueueTest.java</url>
+          <line>13</line>
+          <properties class="com.yi23.springboot.interview.BlockingQueueTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="106" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ArrayListException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        <state relative-caret-position="134">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/scheduled/ScheduledUser1.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="164">
+          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.6/elasticsearch-2.4.6.jar!/org/elasticsearch/common/collect/CopyOnWriteHashMap.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" selection-start-line="14" selection-start-column="12" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="203">
+          <caret line="325" column="20" lean-forward="true" selection-start-line="325" selection-start-column="20" selection-end-line="325" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/controller/TestController.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="157">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/EmployeeMapper.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/mapper/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/myself/service/EmployeeMyselfService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/myself/controller/EmployeeMyselfController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/config/MyCacheConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-cache/src/main/java/com/jrj/cache/Springboot01CacheApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        <state relative-caret-position="157">
+          <caret line="4355" column="15" selection-start-line="4355" selection-start-column="15" selection-end-line="4355" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#262622#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/configuration/MybatisLogInterceptorConfig.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.6/elasticsearch-2.4.6.jar!/org/elasticsearch/common/collect/CopyOnWriteHashSet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="157">
+          <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="1855" column="42" selection-start-line="1855" selection-start-column="42" selection-end-line="1855" selection-end-column="42" />
+        <state relative-caret-position="174">
+          <caret line="115" column="34" lean-forward="true" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/interceptor/MybatisInterptor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        <state relative-caret-position="265">
+          <caret line="157" column="30" lean-forward="true" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.12.RELEASE/spring-boot-1.5.12.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReentrantLockTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="146" column="42" selection-start-line="146" selection-start-column="42" selection-end-line="146" selection-end-column="42" />
+        <state relative-caret-position="229">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar!/org/apache/commons/collections4/ListUtils.class">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/RentrantLockTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="13" selection-start-column="6" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.class">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SpinLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+        <state relative-caret-position="850">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.12.RELEASE/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/HashSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3604">
-          <caret line="284" column="42" selection-start-line="284" selection-start-column="42" selection-end-line="284" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/math/NumberUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31280">
-          <caret line="1899" column="26" selection-start-line="1899" selection-start-column="26" selection-end-line="1899" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar!/org/apache/commons/collections4/MapUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="178">
+          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/ToIntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="398" column="25" selection-start-line="398" selection-start-column="25" selection-end-line="398" selection-end-column="25" />
+        <state relative-caret-position="272">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/MoneyUtils.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="171">
+          <caret line="571" column="22" selection-start-line="571" selection-start-column="22" selection-end-line="571" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/Date.java" />
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/DateUtils.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        <state relative-caret-position="406">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/pattern/TestPattern.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/interview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="318">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/AllocationOrderDetailDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/AllocationOrderDetailMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/mappers/PropagationMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/dao/PropagationDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/AllocationOrderDetailServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/AllocationOrderDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/AllocationOrderDetailController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="100" lean-forward="true" selection-start-line="60" selection-start-column="100" selection-end-line="60" selection-end-column="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/PropagationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/resources/application-test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/controller/PropagationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/bean/AllocationOrderDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="891" column="42" selection-start-line="891" selection-start-column="42" selection-end-line="891" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="1749" column="18" selection-start-line="1749" selection-start-column="18" selection-end-line="1749" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="422" column="14" selection-start-line="422" selection-start-column="14" selection-end-line="422" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Demo.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/TestLamadaRatio.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        <state relative-caret-position="284">
+          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ReadWriteLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="290" column="22" selection-start-line="290" selection-start-column="22" selection-end-line="290" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1645">
+          <caret line="221" column="28" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="1341" column="21" lean-forward="true" selection-start-line="1341" selection-start-column="21" selection-end-line="1341" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="425" column="21" selection-start-line="425" selection-start-column="21" selection-end-line="425" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.List">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.List</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="116.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category />
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CyclibarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/AppStartClass.java">
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SemaphreTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="9" selection-start-line="9" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Testlamada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="37" column="102" selection-start-line="37" selection-start-column="102" selection-end-line="37" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/AtomicIntegerCompareAndSweep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/SynchronousQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="58" column="28" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="355" column="26" selection-start-line="355" selection-start-column="14" selection-end-line="355" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/ConditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="190" column="20" lean-forward="true" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/CallableAndFutureTasktest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/BlockQueueConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootStudy/src/main/java/com/yi23/springboot/interview/MyTheadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="102">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="357">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+>>>>>>> ad2e58e... 面试
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/service/impl/PropagationServiceImpl.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="323">
           <caret line="26" column="51" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+=======
+        <state relative-caret-position="3349">
+          <caret line="232" column="16" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="16" />
+>>>>>>> ad2e58e... 面试
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#8926#8927#0" expanded="true" />
+            <element signature="e#8973#8974#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-20181119-jdbcSharding/src/main/java/com/yi23/springboot/JDK8/Lamada.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="316">
           <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="542">
+          <caret line="1312" column="37" selection-start-line="1312" selection-start-column="37" selection-end-line="1312" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+>>>>>>> ad2e58e... 面试
         </state>
       </provider>
     </entry>
@@ -1158,7 +2158,11 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
+<<<<<<< HEAD
                 <option value="0.2" />
+=======
+                <option value="0.3209352" />
+>>>>>>> ad2e58e... 面试
               </list>
             </option>
           </splitter-proportions>
@@ -1166,11 +2170,19 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>Spring (springboot-10)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3209352" />
+>>>>>>> ad2e58e... 面试
               </list>
             </option>
           </splitter-proportions>
@@ -1193,7 +2205,11 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
+<<<<<<< HEAD
                 <option value="0.2" />
+=======
+                <option value="0.3209352" />
+>>>>>>> ad2e58e... 面试
               </list>
             </option>
           </splitter-proportions>
@@ -1201,11 +2217,19 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Spring|springboot20181119jdbcSharding</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>Spring|springboot-redis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3209352" />
+>>>>>>> ad2e58e... 面试
               </list>
             </option>
           </splitter-proportions>
@@ -1217,7 +2241,11 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
+<<<<<<< HEAD
                 <option value="0.2" />
+=======
+                <option value="0.3209352" />
+>>>>>>> ad2e58e... 面试
               </list>
             </option>
           </splitter-proportions>

@@ -82,5 +82,6 @@
 		<module>springboot-09-test</module>
         <module>springboot-excel</module>
         <module>springboot-20181119-jdbcSharding</module>
+        <module>springbootStudy</module>
     </modules>
 </project>
