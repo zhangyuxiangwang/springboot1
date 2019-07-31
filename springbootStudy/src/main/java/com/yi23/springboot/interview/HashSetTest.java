@@ -11,11 +11,14 @@ import java.util.Set;
  */
 public class HashSetTest {
 
+//    public static void main(String[] args) {
+//
+//        Set<String> set = new HashSet<>();
+//
+//        set.add("1");
+//        Set<Object> synchronizedSet = Collections.synchronizedSet(new HashSet<>());
+//    }
     public static void main(String[] args) {
 
-        Set<String> set = new HashSet<>();
-
-        set.add("1");
-        Set<Object> synchronizedSet = Collections.synchronizedSet(new HashSet<>());
     }
 }
